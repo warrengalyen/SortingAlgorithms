@@ -1,7 +1,7 @@
 Sorting Algorithms
 ==========================
 
-
+![](screenshot.png)
 
 Visualization and comparison of 9 different sorting algorithms:
 - selection sort
